@@ -1,0 +1,15 @@
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/DIO.Milagres.TV
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/DIO.Milagres.TV.deps.json
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/DIO.Milagres.TV.runtimeconfig.json
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/DIO.Milagres.TV.dll
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/ref/DIO.Milagres.TV.dll
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/bin/Debug/net6.0/DIO.Milagres.TV.pdb
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.csproj.AssemblyReference.cache
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.AssemblyInfoInputs.cache
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.AssemblyInfo.cs
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.csproj.CoreCompileInputs.cache
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.dll
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/ref/DIO.Milagres.TV.dll
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.pdb
+/home/emanoel/Projeto1-Milagres.TV/DIO.Milagres.TV/obj/Debug/net6.0/DIO.Milagres.TV.genruntimeconfig.cache
