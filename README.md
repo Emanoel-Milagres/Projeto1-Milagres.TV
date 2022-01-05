@@ -2,4 +2,4 @@
 
 ##Projeto 1 DIO / Decola Tech2
 
-Projeto realizado com base nos meus gostos por series.
+Projeto realizado com base nos meus gostos por series, com o auxilio do professor Eliézer Zarpelão.
